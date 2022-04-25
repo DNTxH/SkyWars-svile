@@ -1,0 +1,20 @@
+name: SkyWarsSvile
+main: svile\sw\SWmain
+version: 1.0
+api: [ 4.0.0 ]
+load: STARTUP
+authors: [ svile, VaxPex ]
+description: SkyWars plugin
+
+depend:
+  - BedrockEconomy
+
+commands:
+  sw:
+    description: SkyWars main command
+    permission: sw.cmd
+
+permissions:
+  sw.cmd:
+    default: true
+    description: sw command perm
