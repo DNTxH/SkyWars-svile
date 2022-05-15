@@ -5,7 +5,4 @@ branches:
 projects:
   SkyWars-svile:
     path: ""
- libs:
-      - src: cooldogedev/BedrockEconomy/BedrockEconomy
-        version: ^2.0.8
 ...
