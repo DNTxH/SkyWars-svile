@@ -8,7 +8,6 @@ projects:
  libs:
       - src: cooldogedev/BedrockEconomy/BedrockEconomy
         version: ^2.0.8
-libs:
       - src: czechpmdevs/multiworld/MultiWorld
         version: ^1.7.0-beta4
 ...
