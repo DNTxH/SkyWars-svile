@@ -8,8 +8,7 @@ projects:
  libs:
       - src: cooldogedev/BedrockEconomy/BedrockEconomy
         version: ^2.0.8
-czechpmdevs/multiworld/generator/void/VoidGenerator
-libs:
+
       - src: czechpmdevs/multiworld/generator/void/VoidGenerator
         version: ^1.7.0-beta4
 ...
